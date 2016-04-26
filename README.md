@@ -14,7 +14,9 @@ As always, THANKS to Chris Kempson for the [base16 color palettes](http://chrisk
 
 ## Changelog
 
+```
 1.0 - Created.
 1.0.1 - Updated background color on html for short pages.
 1.0.2 - Added flash notice color.
 1.0.3 - Added code for pre.
+```
