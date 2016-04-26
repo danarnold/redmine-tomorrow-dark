@@ -8,6 +8,10 @@ Only tested with Redmine 2.5-stable.
 
 As always, THANKS to Chris Kempson for the [base16 color palettes](http://chriskempson.github.io/base16/)!
 
+## Screenshot
+
+![screenshot](auto-screenshot.png)
+
 ## Changelog
 
 1.0 - Created.
