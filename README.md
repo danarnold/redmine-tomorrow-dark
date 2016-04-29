@@ -10,7 +10,7 @@ As always, THANKS to Chris Kempson for the [base16 color palettes](http://chrisk
 
 ## Screenshot
 
-![screenshot](auto-screenshot.png)
+![screenshot](screenshot.png)
 
 ## Changelog
 
@@ -19,4 +19,5 @@ As always, THANKS to Chris Kempson for the [base16 color palettes](http://chrisk
 1.0.1 - Updated background color on html for short pages.
 1.0.2 - Added flash notice color.
 1.0.3 - Added code for pre.
+1.1 - Fixed issue with previews and tags plugin I use.
 ```
